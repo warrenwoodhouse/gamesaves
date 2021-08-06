@@ -1,2 +1,2 @@
 # gamesaves
-PRIVATE folder for Game Saves.
+PUBLIC folder for Game Saves. A private folder is available only for @warrenwoodhouse
