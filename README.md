@@ -1,5 +1,17 @@
 # gamesaves
-PUBLIC folder containing my Game Saves. Files in this repository are for personal use only. More stuff at https://warrenwoodhouse.fandom.com/wiki/Themes
+Game Saves repository by Warren Woodhouse. Files in this repository are for personal use only. More cool stuff at https://warrenwoodhouse.fandom.com/wiki/Themes
 
-# LICENSE
-Files in this repository are for personal use only. Please read the full license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
+# LICENSE AGREEMENT
+You can find the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
+
+# WHAT IS IN THE PACKAGE
+Game Saves by Warren Woodhouse.
+
+# SUPPORT
+You can find support at https://warrenwoodhouse.fandom.com/wiki/Forum:Support
+
+# KEEP IN TOUCH
+* Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
+* Follow on Twitter: https://twitter.com/warrenwoodhouse
+* Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.fandom.com/wiki/Blog
+* More: https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis
